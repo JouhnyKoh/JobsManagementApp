@@ -1,0 +1,20 @@
+﻿JobsManagementApp
+
+
+winexe
+C#
+.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\
+JobsManagementApp
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\App.xaml
+71074261514
+
+11444660007
+2081549064795
+Resource\MainResource.xaml;View\Admin\DashBoardAdmin.xaml;View\Admin\HomePageAdmin.xaml;View\Admin\JobsListPageAdmin.xaml;View\General\ForgotPage.xaml;View\General\LoginPage.xaml;View\General\LoginWindow.xaml;
+
+False
+

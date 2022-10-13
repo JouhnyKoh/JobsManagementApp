@@ -1,0 +1,161 @@
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.exe
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.deps.json
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.runtimeconfig.json
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.dll
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.pdb
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.AssemblyReference.cache
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\DashBoard.g.cs
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\Forgot.g.cs
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\Login.g.cs
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\Splash.g.cs
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\App.g.cs
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp_MarkupCompile.cache
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp_MarkupCompile.lref
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\App.baml
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\DashBoard.baml
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\Forgot.baml
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\Login.baml
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\MainWindow.baml
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\Splash.baml
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.g.resources
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.AssemblyInfoInputs.cache
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.AssemblyInfo.cs
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.CoreCompileInputs.cache
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.CopyComplete
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.dll
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\refint\JobsManagementApp.dll
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.pdb
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.genruntimeconfig.cache
+G:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\ref\JobsManagementApp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.exe
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.deps.json
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.runtimeconfig.json
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.pdb
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\LiveChartsCore.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.WPF.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\SkiaSharp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\SkiaSharp.Views.WPF.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.AssemblyReference.cache
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\DashBoardAdmin.g.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\HomePageAdmin.g.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\JobsListPageAdmin.g.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\ForgotPage.g.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginPage.g.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginWindow.g.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\Splash.g.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\App.g.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp_MarkupCompile.cache
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp_MarkupCompile.lref
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\App.baml
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\Resource\MainResource.baml
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\DashBoardAdmin.baml
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\HomePageAdmin.baml
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\JobsListPageAdmin.baml
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\ForgotPage.baml
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginPage.baml
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginWindow.baml
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\Splash.baml
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.g.resources
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.AssemblyInfoInputs.cache
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.AssemblyInfo.cs
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.CoreCompileInputs.cache
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.CopyComplete
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\refint\JobsManagementApp.dll
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.pdb
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.genruntimeconfig.cache
+E:\CODE\NLCN\PROJECT\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\ref\JobsManagementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.AssemblyReference.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\DashBoardAdmin.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\HomePageAdmin.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\ForgotPage.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginPage.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginWindow.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\Splash.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp_MarkupCompile.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp_MarkupCompile.lref
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\refint\JobsManagementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.pdb
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.exe
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.deps.json
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.runtimeconfig.json
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\JobsManagementApp.pdb
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\LiveChartsCore.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.AssemblyReference.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\DashBoardAdmin.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\HomePageAdmin.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\JobsListPageAdmin.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\ForgotPage.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginPage.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginWindow.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp_MarkupCompile.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp_MarkupCompile.lref
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\App.baml
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\Resource\MainResource.baml
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\DashBoardAdmin.baml
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\HomePageAdmin.baml
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\Admin\JobsListPageAdmin.baml
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\ForgotPage.baml
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginPage.baml
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\View\General\LoginWindow.baml
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.g.resources
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.AssemblyInfoInputs.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.AssemblyInfo.cs
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.csproj.CopyComplete
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\refint\JobsManagementApp.dll
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.pdb
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\JobsManagementApp.genruntimeconfig.cache
+C:\Users\khoa1\OneDrive - osakaka\Desktop\Clone\JobsManagementApp\JobsManagementApp\obj\Debug\net6.0-windows\ref\JobsManagementApp.dll
